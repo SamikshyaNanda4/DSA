@@ -4,7 +4,7 @@
 
 This repository serves as a collection of solutions to various data structures and algorithms questions. As I navigate through this coding journey, I aim to build a comprehensive set of solutions that cover different problem-solving techniques and concepts.
 
-##Contents
+## Contents
 1.Arrays
 -Set Zero Matrix 
 
