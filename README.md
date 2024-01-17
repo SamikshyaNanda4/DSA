@@ -1,7 +1,4 @@
-# DSA-SDE-sheet
-Certainly! Here's a template for the README section of your repository dedicated to data structures and algorithms questions:
 
----
 
 # Data Structures and Algorithms Practice
 
