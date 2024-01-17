@@ -22,8 +22,5 @@ If you'd like to contribute a solution or add a new question:
 
 Feel free to explore the solutions, suggest improvements, or contribute new questions. Let's build a resource that can help others on their coding journey!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
