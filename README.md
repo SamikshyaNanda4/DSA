@@ -4,19 +4,6 @@
 
 This repository serves as a collection of solutions to various data structures and algorithms questions. As I navigate through this coding journey, I aim to build a comprehensive set of solutions that cover different problem-solving techniques and concepts.
 
-## Table of Contents
-
-1. **Arrays**
-
-2. **Linked Lists**
-
-3. **Trees**
-
-4. **Sorting**
-
-5. **Searching**
-
-
 ## How to Contribute
 
 If you'd like to contribute a solution or add a new question:
