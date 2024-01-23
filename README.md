@@ -7,7 +7,7 @@ This repository serves as a collection of solutions to various data structures a
 ## Table of Contents
 
 1. **Arrays**
-   - Set Zero Matrix
+    - Set Zero Matrix
      
 2.**Binary Search**
    - First and Last position of Element in sorted Array
